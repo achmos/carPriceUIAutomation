@@ -7,7 +7,8 @@ import org.junit.runners.Suite;
 
 @RunWith(Suite.class)
 @Suite.SuiteClasses({
-        CanLoadWebsiteTest.class
+        CanLoadWebsiteUITest.class,
+//        CarPaymentTests.class
 })
 
 public class CarPriceUITestSuite {
